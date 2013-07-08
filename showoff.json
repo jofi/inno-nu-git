@@ -1,1 +1,7 @@
-{ "name": "My Preso", "sections": [ {"section":"one"} ]}
+{ "name": "Práca s GIT-om", 
+  "sections": [ 
+    {"section":"uvod-nu"}, 
+    {"section":"uvod-git"}, 
+    {"section":"co-je-git"} 
+    ]
+}
